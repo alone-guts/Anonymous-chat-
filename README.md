@@ -25,11 +25,3 @@ Perfect for communities, fun chats, or social interaction platforms.
 
 ---
 
-## 🚀 Setup Guide
-
-### 1️⃣ Clone the Repo
-```bash
-git clone https://github.com/yourusername/anonymous-chat-bot.git
-cd anonymous-chat-bot
-# Anonymous-chat-
-Advanced anonymous chat bot 
