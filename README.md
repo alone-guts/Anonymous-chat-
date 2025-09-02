@@ -34,6 +34,7 @@ Perfect for communities, fun chats, or social interaction platforms.
 
 > ⚠️ Replace `YOUR-USERNAME/YOUR-REPO` in the link above with your actual GitHub repo link.  
 
+For purchase contact~~https://t.me/@waguris_moon
 ---
 ## 🛠️ Tech Stack
 - **Python 3.10+**
