@@ -16,8 +16,19 @@ Perfect for communities, fun chats, or social interaction platforms.
 - 🌐 **Deployable Anywhere** – Replit, Heroku, Render, or VPS.
 
 ---
- 🚀 Deploy on Heroku
-Click the button below to deploy directly to **Heroku**:
+  🚀 Deployment
+
+### 1️⃣ Deploy on Render
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+
+---
+
+### 2️⃣ Deploy on Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new)
+
+### 3️⃣ Deploy on Replit
+[![Run on Repl.it](https://repl.it/badge/github/your-username/your-repo)](https://repl.it/github/your-username/your-repo)
+
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/YOUR-USERNAME/YOUR-REPO)
 
