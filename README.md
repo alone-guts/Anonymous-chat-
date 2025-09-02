@@ -16,7 +16,14 @@ Perfect for communities, fun chats, or social interaction platforms.
 - 🌐 **Deployable Anywhere** – Replit, Heroku, Render, or VPS.
 
 ---
+ 🚀 Deploy on Heroku
+Click the button below to deploy directly to **Heroku**:
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/YOUR-USERNAME/YOUR-REPO)
+
+> ⚠️ Replace `YOUR-USERNAME/YOUR-REPO` in the link above with your actual GitHub repo link.  
+
+---
 ## 🛠️ Tech Stack
 - **Python 3.10+**
 - **Pyrogram / Telethon**
